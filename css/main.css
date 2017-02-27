@@ -1,3 +1,19 @@
 body {
 	background-color: #b9e;
 }
+
+footer {
+	color: #435;
+}
+
+ol ul li {
+	list-style-type: default;
+}
+
+a {
+	color: #33c;
+}
+
+a:hover {
+	color: #c44;
+}
