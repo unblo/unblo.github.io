@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Phase Soaring Eagle</title>
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" src="css/main.css">
 </head>
 <body>
 	<h2>Phase Soaring Eagle (2015)</h2>

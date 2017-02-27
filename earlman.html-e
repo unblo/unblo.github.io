@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Earlman</title>
-	<link rel="stylesheet" type="text/css" href="css/main.css">
+	<link rel="stylesheet" type="text/css" src="css/main.css">
 </head>
 <body>
 	<h2>Earlman (2016)</h2>
